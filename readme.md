@@ -52,7 +52,7 @@
    
 4. 다운받은 파일을 아나콘다의 가상환경이 설치된 위치로 이동
 
-   C:\Users\<사용자 계정>\anaconda3\envs\llm\Scripts
+   C:\Users\ <사용자 계정>\anaconda3\envs\llm\Scripts
    
 5. 해당 파일에서 cmd 실행 후 다음 명령어 입력
    
