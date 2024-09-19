@@ -31,3 +31,20 @@
 5. 웹: 사용자와 상호작용
 ----------------------------------------------------------------
 
+환경: anaconda
+1. anaconda 가상환경 설정
+   annaconda prompt에서 다음 명령어 입력
+   
+       conda create -n llm python=3.8
+       activate llm
+       pip install ipykernel
+       python -m ipykernel install --user --name llm --display-name "llm"
+       jupyter notebook
+   
+2. jupyter notebook 실행
+   ipynb파일 업로드 후 명령어 실행
+   
+4. 
+5. 
+
+
